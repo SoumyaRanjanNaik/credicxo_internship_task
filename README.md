@@ -1,6 +1,6 @@
 # credicxo_internship_task
 
-##URLs
+## URLs
 1. /banks/get_branch_details/
   REQUEST METHOD : 
         - GET
